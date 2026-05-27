@@ -1,0 +1,26 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "PharmEPI LAB"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Pharmacoepidemiology Laboratory at Pusan National University — Real-world evidence on drug safety and effectiveness"
+
+[params.author]
+  name = "Nakyung Jeon, PhD"
+  email = "njeon@pusan.ac.kr"
+  image = "img/pi.jpg"
+  headline = "Associate Professor of Pharmacoepidemiology"
+  bio = "Principal Investigator, PharmEPI LAB — College of Pharmacy, Pusan National University"
+  links = [
+    { email = "mailto:njeon@pusan.ac.kr" },
+    { orcid = "https://orcid.org/0000-0000-0000-0000" },
+    { researchgate = "https://www.researchgate.net/profile/Nakyung-Jeon" },
+    { google = "https://scholar.google.com/citations?user=YOUR_ID" },
+    { github = "https://github.com/jnk0906" },
+  ]
