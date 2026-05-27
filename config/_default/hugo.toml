@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://pharmepi-lab.netlify.app/"
+baseURL = "https://mellow-wisp-1b2f06.netlify.app/"
 defaultContentLanguage = "en"
 title = "PharmEPI LAB"
 
