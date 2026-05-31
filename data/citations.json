@@ -1,0 +1,448 @@
+﻿{
+    "2017-development-and-validation-of-a-complexity-score":  {
+                                                                  "authors":  {
+
+                                                                              },
+                                                                  "label":  "SCIE",
+                                                                  "year":  2017,
+                                                                  "journal":  "",
+                                                                  "matched":  false,
+                                                                  "title":  "Development and validation of a complexity score"
+                                                              },
+    "202604-jeon-bmc-inf-dis-capa":  {
+                                         "year":  2026,
+                                         "matched":  true,
+                                         "issue":  "1",
+                                         "doi":  "10.1186/s12879-026-13250-5",
+                                         "journal":  "BMC Infectious Diseases",
+                                         "label":  "SCIE",
+                                         "volume":  "26",
+                                         "authors":  [
+                                                         "Jeon N",
+                                                         "Park M",
+                                                         "Baek MS",
+                                                         "Kim TW",
+                                                         "Kim WY"
+                                                     ],
+                                         "pages":  null,
+                                         "title":  "Invasive pulmonary aspergillosis among ICU patients with COVID-19, influenza, and preexisting host factors: a nationwide cohort study",
+                                         "journalShort":  "BMC Infect Dis"
+                                     },
+    "2017-acute-kidney-injury-risk-associated-with-piptazo":  {
+                                                                  "year":  2016,
+                                                                  "matched":  true,
+                                                                  "issue":  "1",
+                                                                  "doi":  "10.1016/j.ijantimicag.2015.11.009",
+                                                                  "journal":  "International Journal of Antimicrobial Agents",
+                                                                  "label":  "SCIE",
+                                                                  "volume":  "47",
+                                                                  "authors":  [
+                                                                                  "Olaitan AO",
+                                                                                  "Morand S",
+                                                                                  "Rolain JM"
+                                                                              ],
+                                                                  "pages":  "1-3",
+                                                                  "title":  "Emergence of colistin-resistant bacteria in humans without colistin usage: a new worry and cause for vigilance",
+                                                                  "journalShort":  "International Journal of Antimicrobial Agents"
+                                                              },
+    "202510-kim-clinther-icis-rwd":  {
+                                         "year":  2025,
+                                         "matched":  true,
+                                         "issue":  "10",
+                                         "doi":  "10.1016/j.clinthera.2025.07.014",
+                                         "journal":  "Clinical Therapeutics",
+                                         "label":  "SCIE",
+                                         "volume":  "47",
+                                         "authors":  [
+                                                         "Kim E",
+                                                         "Jung YS",
+                                                         "Lee J",
+                                                         "Nam DR",
+                                                         "You SH",
+                                                         "Lee JW",
+                                                         "Park SR",
+                                                         "Oh JS",
+                                                         "Kim YJ",
+                                                         "Jo EJ",
+                                                         "Jeon N",
+                                                         "Jung WJ",
+                                                         "Jung SY"
+                                                     ],
+                                         "pages":  "837-843",
+                                         "title":  "Real-World Utilization Patterns of Immune Checkpoint Inhibitors Based on the National Health Insurance Service Data in Korea",
+                                         "journalShort":  "Clinical Therapeutics"
+                                     },
+    "202604-park-jps-esa-faers":  {
+                                      "authors":  "Park",
+                                      "label":  "SCIE",
+                                      "year":  2026,
+                                      "journal":  "JPS",
+                                      "matched":  false,
+                                      "title":  "ESA FAERS"
+                                  },
+    "202507-jung-crt-ici-hepatotoxicity":  {
+                                               "authors":  "Jung",
+                                               "label":  "SCIE",
+                                               "year":  2025,
+                                               "journal":  "CRT",
+                                               "matched":  false,
+                                               "title":  "ICI hepatotoxicity"
+                                           },
+    "2017-identifying-and-characterizing-preventable-adverse-drug-events-for-prioriti":  {
+                                                                                             "authors":  {
+
+                                                                                                         },
+                                                                                             "label":  "SCIE",
+                                                                                             "year":  2017,
+                                                                                             "journal":  "",
+                                                                                             "matched":  false,
+                                                                                             "title":  "Identifying and characterizing preventable adverse drug events for prioritizing pharmacist intervention in hospitals"
+                                                                                         },
+    "current-status-and-improvement-of-reimbursement-policy-for-insulin-delivery-devi":  {
+                                                                                             "authors":  {
+
+                                                                                                         },
+                                                                                             "label":  "Domestic",
+                                                                                             "year":  null,
+                                                                                             "journal":  "",
+                                                                                             "matched":  false,
+                                                                                             "title":  "Current Status and Improvement of Reimbursement Policy for Insulin Delivery Device in Korea_Toward Universal Use of Artificial Pancreas"
+                                                                                         },
+    "202503-yun-perm-covid-meta":  {
+                                       "authors":  "Yun",
+                                       "label":  "Domestic",
+                                       "year":  2025,
+                                       "journal":  "PeRM",
+                                       "matched":  false,
+                                       "title":  "COVID meta"
+                                   },
+    "202402-jeong-kasmp-covid-sr":  {
+                                        "authors":  "Jeong",
+                                        "label":  "Domestic",
+                                        "year":  2024,
+                                        "journal":  "KASMP",
+                                        "matched":  false,
+                                        "title":  "COVID SR"
+                                    },
+    "202401-koo-medicine-amytriptyline":  {
+                                              "authors":  "Koo",
+                                              "label":  "SCIE",
+                                              "year":  2024,
+                                              "journal":  "Medicine",
+                                              "matched":  false,
+                                              "title":  "Amytriptyline"
+                                          },
+    "2017-measurement-of-selected-preventable-adverse-drug":  {
+                                                                  "authors":  {
+
+                                                                              },
+                                                                  "label":  "SCIE",
+                                                                  "year":  2017,
+                                                                  "journal":  "",
+                                                                  "matched":  false,
+                                                                  "title":  "Measurement of selected preventable adverse drug"
+                                                              },
+    "202412-jeon-johta-cdm":  {
+                                  "authors":  "Jeon",
+                                  "label":  "Domestic",
+                                  "year":  2024,
+                                  "journal":  "JoHTA",
+                                  "matched":  false,
+                                  "title":  "CDM"
+                              },
+    "202303-park-cancers-durvalumab-rwe":  {
+                                               "year":  2023,
+                                               "matched":  true,
+                                               "issue":  "5",
+                                               "doi":  "10.3390/cancers15051606",
+                                               "journal":  "Cancers",
+                                               "label":  "SCIE",
+                                               "volume":  "15",
+                                               "authors":  [
+                                                               "Park CK",
+                                                               "Jeon N",
+                                                               "Park HK",
+                                                               "Oh HJ",
+                                                               "Kim YC",
+                                                               "Jeon HL",
+                                                               "Kim YH",
+                                                               "Ahn SJ",
+                                                               "Oh IJ"
+                                                           ],
+                                               "pages":  "1606",
+                                               "title":  "A Propensity-Matched Retrospective Comparative Study with Historical Control to Determine the Real-World Effectiveness of Durvalumab after Concurrent Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer",
+                                               "journalShort":  "Cancers"
+                                           },
+    "202508-sung-psk-clintrial-pilot":  {
+                                            "authors":  "Sung",
+                                            "label":  "Domestic",
+                                            "year":  2025,
+                                            "journal":  "PSK",
+                                            "matched":  false,
+                                            "title":  "ClinTrial pilot"
+                                        },
+    "202512-kim-sci-rep-bp-causal-machine-learning":  {
+                                                          "year":  2025,
+                                                          "matched":  true,
+                                                          "issue":  "1",
+                                                          "doi":  "10.1038/s41598-025-28172-6",
+                                                          "journal":  "Scientific Reports",
+                                                          "label":  "SCIE",
+                                                          "volume":  "15",
+                                                          "authors":  [
+                                                                          "Kim M",
+                                                                          "Jeon N",
+                                                                          "Suh HS"
+                                                                      ],
+                                                          "pages":  null,
+                                                          "title":  "Effects of bisphosphonates after denosumab discontinuation and treatment effect heterogeneity using causal machine learning",
+                                                          "journalShort":  "Sci Rep"
+                                                      },
+    "202511-park-natcomm-cathepsinl":  {
+                                           "authors":  "Park",
+                                           "label":  "SCIE",
+                                           "year":  2025,
+                                           "journal":  "NatComm",
+                                           "matched":  false,
+                                           "title":  "CathepsinL"
+                                       },
+    "2021-nsaids-aki":  {
+                            "year":  2021,
+                            "matched":  true,
+                            "issue":  "9",
+                            "doi":  "10.1007/s00228-021-03121-0",
+                            "journal":  "European Journal of Clinical Pharmacology",
+                            "label":  "SCIE",
+                            "volume":  "77",
+                            "authors":  [
+                                            "Jeon N",
+                                            "Park H",
+                                            "Segal R",
+                                            "Brumback B",
+                                            "Winterstein AG"
+                                        ],
+                            "pages":  "1409-1417",
+                            "title":  "Non-steroidal anti-inflammatory drug-associated acute kidney injury: does short-term NSAID use pose a risk in hospitalized patients?",
+                            "journalShort":  "Eur J Clin Pharmacol"
+                        },
+    "2020-ppi-meta-analysis-jeon-n-song-hj":  {
+                                                  "year":  2020,
+                                                  "matched":  true,
+                                                  "issue":  "10",
+                                                  "doi":  "10.1007/s00228-020-02927-8",
+                                                  "journal":  "European Journal of Clinical Pharmacology",
+                                                  "label":  "SCIE",
+                                                  "volume":  "76",
+                                                  "authors":  [
+                                                                  "Song HJ",
+                                                                  "Jeon N",
+                                                                  "Squires P"
+                                                              ],
+                                                  "pages":  "1437-1456",
+                                                  "title":  "The association between acid-suppressive agent use and the risk of cancer: a systematic review and meta-analysis",
+                                                  "journalShort":  "Eur J Clin Pharmacol"
+                                              },
+    "202412-jeon-psk-bph-dur":  {
+                                    "authors":  "Jeon",
+                                    "label":  "Domestic",
+                                    "year":  2024,
+                                    "journal":  "PSK",
+                                    "matched":  false,
+                                    "title":  "BPH DUR"
+                                },
+    "2020-what-drugs-modify-the-risk-of-iatrogenic-impulse-control-disorders-in-parki":  {
+                                                                                             "year":  2020,
+                                                                                             "matched":  true,
+                                                                                             "issue":  "1",
+                                                                                             "doi":  "10.1371/journal.pone.0227128",
+                                                                                             "journal":  "PLOS ONE",
+                                                                                             "label":  "SCIE",
+                                                                                             "volume":  "15",
+                                                                                             "authors":  [
+                                                                                                             "Jeon N",
+                                                                                                             "Bortolato M"
+                                                                                                         ],
+                                                                                             "pages":  "e0227128",
+                                                                                             "title":  "What drugs modify the risk of iatrogenic impulse-control disorders in Parkinson’s disease? A preliminary pharmacoepidemiologic study",
+                                                                                             "journalShort":  "PLoS ONE"
+                                                                                         },
+    "202211-koo-ejcp-cv-risk-tca":  {
+                                        "year":  2023,
+                                        "matched":  true,
+                                        "issue":  "1",
+                                        "doi":  "10.1007/s00228-022-03421-z",
+                                        "journal":  "European Journal of Clinical Pharmacology",
+                                        "label":  "SCIE",
+                                        "volume":  "79",
+                                        "authors":  [
+                                                        "Koo H",
+                                                        "You SH",
+                                                        "Park S",
+                                                        "Jeong KH",
+                                                        "Jeon N",
+                                                        "Jung SY"
+                                                    ],
+                                        "pages":  "159-171",
+                                        "title":  "Risk of cardiovascular events according to the tricyclic antidepressant dosage in patients with chronic pain: a retrospective cohort study",
+                                        "journalShort":  "Eur J Clin Pharmacol"
+                                    },
+    "202407-jeong-cpt-fgf21-meta":  {
+                                        "year":  2024,
+                                        "matched":  true,
+                                        "issue":  "1",
+                                        "doi":  "10.1002/cpt.3278",
+                                        "journal":  "Clinical Pharmacology \u0026amp; Therapeutics",
+                                        "label":  "SCIE",
+                                        "volume":  "116",
+                                        "authors":  [
+                                                        "Jeong C",
+                                                        "Han N",
+                                                        "Jeon N",
+                                                        "Rhee S",
+                                                        "Staatz CE",
+                                                        "Kim M",
+                                                        "Baek I"
+                                                    ],
+                                        "pages":  "72-81",
+                                        "title":  "Efficacy and Safety of Fibroblast Growth Factor‐21 Analogs for the Treatment of Metabolic Dysfunction‐Associated Steatohepatitis: A Systematic Review and Meta‐Analysis",
+                                        "journalShort":  "Clin Pharma and Therapeutics"
+                                    },
+    "202407-desai-cpt-esa-rwe":  {
+                                     "year":  2024,
+                                     "matched":  true,
+                                     "issue":  "1",
+                                     "doi":  "10.1002/cpt.3271",
+                                     "journal":  "Clinical Pharmacology \u0026amp; Therapeutics",
+                                     "label":  "SCIE",
+                                     "volume":  "116",
+                                     "authors":  [
+                                                     "Desai R",
+                                                     "Unigwe I",
+                                                     "Riaz M",
+                                                     "Smith SM",
+                                                     "Shukla AM",
+                                                     "Mohandas R",
+                                                     "Jeon N",
+                                                     "Park H"
+                                                 ],
+                                     "pages":  "217-224",
+                                     "title":  "Comparative Safety of Long‐Acting vs. Short‐Acting Erythropoiesis‐Stimulating Agents Among Patients Undergoing Hemodialysis",
+                                     "journalShort":  "Clin Pharma and Therapeutics"
+                                 },
+    "2019-predicting-medication-associated-altered-mental-status-in-hospitalized-pati":  {
+                                                                                             "authors":  {
+
+                                                                                                         },
+                                                                                             "label":  "SCIE",
+                                                                                             "year":  2019,
+                                                                                             "journal":  "",
+                                                                                             "matched":  false,
+                                                                                             "title":  "Predicting medication-associated altered mental status in hospitalized patients Development and validation of a risk model"
+                                                                                         },
+    "2020-impact-of-the-transition-from-icd9-to-icd10-pregnancy":  {
+                                                                       "authors":  {
+
+                                                                                   },
+                                                                       "label":  "SCIE",
+                                                                       "year":  2020,
+                                                                       "journal":  "",
+                                                                       "matched":  false,
+                                                                       "title":  "Impact of the transition from ICD9 to ICD10 pregnancy"
+                                                                   },
+    "2019-aki-prediction-model":  {
+                                      "authors":  {
+
+                                                  },
+                                      "label":  "SCIE",
+                                      "year":  2019,
+                                      "journal":  "",
+                                      "matched":  false,
+                                      "title":  "AKI prediction model"
+                                  },
+    "2018-development-and-validation-of-a-complexity-score-hypoglycemia":  {
+                                                                               "authors":  {
+
+                                                                                           },
+                                                                               "label":  "SCIE",
+                                                                               "year":  2018,
+                                                                               "journal":  "",
+                                                                               "matched":  false,
+                                                                               "title":  "Development and validation of a complexity score hypoglycemia"
+                                                                           },
+    "202402-jeon-birth-ppd-byage":  {
+                                        "year":  2024,
+                                        "matched":  true,
+                                        "issue":  "1",
+                                        "doi":  "10.1111/birt.12785",
+                                        "journal":  "Birth",
+                                        "label":  "SCIE",
+                                        "volume":  "51",
+                                        "authors":  [
+                                                        "Jeon N",
+                                                        "Kent‐Marvick J",
+                                                        "Sanders JN",
+                                                        "Hanson H",
+                                                        "Simonsen SE"
+                                                    ],
+                                        "pages":  "218-228",
+                                        "title":  "Comparing maternal factors associated with postpartum depression between primiparous adolescents and adults: A large retrospective cohort study",
+                                        "journalShort":  "Birth"
+                                    },
+    "202312-song-ejcp-ppi-meta":  {
+                                      "year":  2024,
+                                      "matched":  true,
+                                      "issue":  "3",
+                                      "doi":  "10.1007/s00228-023-03606-0",
+                                      "journal":  "European Journal of Clinical Pharmacology",
+                                      "label":  "SCIE",
+                                      "volume":  "80",
+                                      "authors":  [
+                                                      "Song HJ",
+                                                      "Seo HJ",
+                                                      "Jiang X",
+                                                      "Jeon N",
+                                                      "Lee YJ",
+                                                      "Ha IH"
+                                                  ],
+                                      "pages":  "367-382",
+                                      "title":  "Proton pump inhibitors associated with an increased risk of mortality in elderly: a systematic review and meta-analysis",
+                                      "journalShort":  "Eur J Clin Pharmacol"
+                                  },
+    "202403-jeon-plosone-pregnancy-rate-bymentaldisorder":  {
+                                                                "year":  2024,
+                                                                "matched":  true,
+                                                                "issue":  "3",
+                                                                "doi":  "10.1371/journal.pone.0296425",
+                                                                "journal":  "PLOS ONE",
+                                                                "label":  "SCIE",
+                                                                "volume":  "19",
+                                                                "authors":  [
+                                                                                "Jeon N",
+                                                                                "Albogami Y",
+                                                                                "Jung SY",
+                                                                                "Bussing R",
+                                                                                "Winterstein AG"
+                                                                            ],
+                                                                "pages":  "e0296425",
+                                                                "title":  "Comparing pregnancy and pregnancy outcome rates between adolescents with and without pre-existing mental disorders",
+                                                                "journalShort":  "PLoS ONE"
+                                                            },
+    "202402-na-sleep-dora-meta":  {
+                                      "authors":  "Na",
+                                      "label":  "SCIE",
+                                      "year":  2024,
+                                      "journal":  "Sleep",
+                                      "matched":  false,
+                                      "title":  "DORA meta"
+                                  },
+    "impulse-control-disorders-associated-with-pramipexoleropinirole-use-in-non-parki":  {
+                                                                                             "authors":  {
+
+                                                                                                         },
+                                                                                             "label":  "Domestic",
+                                                                                             "year":  null,
+                                                                                             "journal":  "",
+                                                                                             "matched":  false,
+                                                                                             "title":  "Impulse Control Disorders associated with PramipexoleRopinirole Use in non-Parkinson\u0027s patients_a scoping review"
+                                                                                         }
+}
